@@ -1,4 +1,3 @@
-# pytorch-ai-engineer-roadmap
 # PyTorch AI Engineer Roadmap
 
 This repository documents my journey transitioning into an AI Engineer role, with a focus on PyTorch, Machine Learning, and Deep Learning.
